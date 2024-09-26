@@ -4,10 +4,8 @@
     <title> Ducks </title>
   </head> 
 <style>
-	
-</style>
   <body>
-  <h1 style="background-color:DodgerBlue;"> A Summary of Ducks </h1>
+  <h1 ><center> A Summary of Ducks </center></h1>
       <h4> Today, I'm going to take you through a journey of <em>discovery</em>, of wonder, and the truly awe-inspiring world of the creatures we know as <b>ducks</b>. </h4>
     
   <h2> Ducks - The Dictionary Definition </h2>
@@ -48,10 +46,14 @@
   <div>
 	<h2> Ducks Vs. Geese Vs. Swans </h2>
 	<h5> One of the main misconceptions is that ducks, geese, and swans are all the same. BUT THEY ARE NOT. Though they belong to the same family, Anatidae, each of them have their own characteristics that set them amart from others. </h5>
-	<h4> First of all, </h4>
+	<h4> 1. </h4>
+	<h4> 2. </h4>
+	<h4> 3. </h4>
   </div>
 
- 	
-<h2> Some Thought Provoking Images of Ducks </h2>
   </body> 
+</style>	
+<style> 
+	h1 {text-align: center;}
+</style>
 </html> 
