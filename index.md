@@ -48,11 +48,11 @@
   <div>
 	<h2> Ducks Vs. Geese Vs. Swans </h2>
 	<h5> One of the main misconceptions is that ducks, geese, and swans are all the same. BUT THEY ARE NOT. Though they belong to the same family, Anatidae, each of them have their own characteristics that set them amart from others. </h5>
-	<h3> 1. They come in a <b>VARIETY</b> of sizes. </h4>
+	<h4> 1. They come in a <b>VARIETY</b> of sizes. </h4>
 	  <p class = "difference"> Ducks are the smallest birds in the Anatidae family. Geese are medium sized between the three, with elongated bodies and necks. Swans are the largest with their huge, long necks and relatively larger bodies.  </p>
-	<h3> 2. They have different bill$! </h4>
+	<h4> 2. They have different bill$! </h4>
 	  <p class = "difference"> Ducks have relatively long, wide, and flat bills. Geese have shorter, more rouded bills. Swans are like an intermediate between the two, so their beaks are long and thick. In fact, many birds are distinguished based on their bill shape, helping to categorize them into different species. </p>
-	<h3> 3. They are unique in behaviors... </h4>
+	<h4> 3. They are unique in behaviors... </h4>
 	  <p class = "difference"> Ducks are relatively social creatures which live in flocks, keeping other ducks as company so that they don't feel lonely. <br><br> Geese, on the other hand, are more loud and aggressive - especially if other animals come too close or they are protecting their young.  <br><br> Swans are the same in a way, being protective of their nest and their young. Out of the 3, swans are the most graceful and majestic, being a symbol of love and grace. </p>
   </div>
 
