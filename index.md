@@ -63,6 +63,7 @@
  	<img src = "https://i.pinimg.com/originals/da/f2/91/daf29142d7693abff6ee7659ba872874.png" width = "200" height = "200">
   	<img src = "https://i.chzbgr.com/full/9560359424/h93EE676F/hairdryer-for-the-first-time-as-a-kid-cute-baby-duck-duckling-with-fluffy-fuzzy-hair-sticking-out" width = "200" height = "230">
     <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26A-ZZP36tIXbLfb3BKiTUk38tmGgC6iRtw&s" width = "200" height = "200">
+    <img src ="https://media.tenor.com/cjk8Bj1CLnIAAAAM/duck-pog.gif" width = "200" height = "200">
 	
 </div>
 </body> 
@@ -74,7 +75,7 @@
 	.title {border-style: double; font-family: Copperplate; font-size: 30 px}
 	.subheading{font-family: Marker Felt;}
 	.header {font-family: Bradly Hand; font-size: 20 px}
-    .description {font-family: Copperplate; font-size: 25 px;}
+    .description {font-family: Copperplate; font-size: 40 px;}
  </style>	
 
 </html>
