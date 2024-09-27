@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-  <html> 
+<!DOCTYPE html><html> 
  <head> 
 	  
 </head> 
@@ -18,15 +17,15 @@
 	<h2 class = "header"> Different Duck Species </h2> 
 	    <p> There are many different types of ducks, but I'm going give you a few examples of some interesting breeds. </p>
 	    <ul> 
-		<l class = "listtitle"> <b>1. Mallards: </b> </l> 
+		<l class = "subheading"> <b>1. Mallards: </b> </l> 
 		<p class ="difference"> the most common type of ducks - typically aggressive. Only the male mallards have the shiny green plumage on their head, while the females are typically brown and dull. </p>
-		<l class = "listtitle"> <b>2. American Pekin: </b></l>
+		<l class = "subheading"> <b>2. American Pekin: </b></l>
 		<p class ="difference"> an American breed of domestic birds primarily raised for poultry. They are more docile and friendly than Mallards, and make great household pets!</p>
-		<l class = "listtitle"> <b>3. Indian Runner Ducks: </b></l>
+		<l class = "subheading"> <b>3. Indian Runner Ducks: </b></l>
 		<p class ="difference"> noticable for their unbelievably long necks. They look like they were horizontally stretched out, and instead of waddling, they run! </p>
-		<l class = "listtitle"><b>4. Crested Ducks:</b> </l>
+		<l class = "subheading"><b>4. Crested Ducks:</b> </l>
 		<p class ="difference"> another type of domestic duck, but is characterized by the large fluff of feathers on its head, making it look like Albert Einstein. This breed is known to be very cool. </p>
-		<l class = "listtitle"> <b>5. Pomeranian Duck: </b></l>
+		<l class = "subheading"> <b>5. Pomeranian Duck: </b></l>
 		<p class ="difference"> another domesticated duck, but this breed is especially rare. They are traditionally black or dark blue, which a white breastplate - and their eyes are incredibly adorable. </p>
 	    </ul>
 </div>
@@ -40,25 +39,25 @@
 </div>  
 	
 <div> 
-	<h2> The <b>Brief </b>History of Ducks </h2>
+	<h2> <center></center> The <b>Brief </b>History of Ducks</center> </h2>
 	  	<p> Ducks can be traced back to the Neolithic period, domesticated in China and other places in East Asia. The oldest descendant is known to be the Mallard (<i>Anas platyrhynchos</i>). </p>
 	        <p> They were also seen in Ancient Egypt and Europe nearly 4000 years ago. In order to bring them to the United States, they were imported from China and Europe.</p>
 	        <p> The duck population grew rapidly to what we see today - parks filled with these feathery, fun-filled buddies who occasionally poop on us and eat our breadcrumbs. </p>
 	        
 </div>
 <div>
-	<h2 class = "header"> Ducks Vs. Geese Vs. Swans </h2>
-	<h5> One of the main misconceptions is that ducks, geese, and swans are all the same. BUT THEY ARE NOT. Though they belong to the same family, Anatidae, each of them have their own characteristics that set them amart from others. </h5>
-	<h4 class = "listtitle"> 1. They come in a <b>VARIETY</b> of sizes. </h4>
+	<h2 class = "header"> <center>Ducks Vs. Geese Vs. Swans </center> </h2>
+		<h5 class = "description"> <center>One of the main misconceptions is that ducks, geese, and swans are all the same. BUT THEY ARE NOT. Though they belong to the same family, Anatidae, each of them have their own characteristics that set them amart from others.</center> </h5>
+	<h4 class = "subheading"> 1. They come in a <b>VARIETY</b> of sizes. </h4>
 	    <p class = "difference"> Ducks are the smallest birds in the Anatidae family. Geese are medium sized between the three, with elongated bodies and necks. Swans are the largest with their huge, long necks and relatively larger bodies.  </p>
-	<h4 class = "listtitle"> 2. They have different bill$! </h4>
+	<h4 class = "subheading"> 2. They have different bill$! </h4>
 	    <p class = "difference" > Ducks have relatively long, wide, and flat bills. Geese have shorter, more rouded bills. Swans are like an intermediate between the two, so their beaks are long and thick. In fact, many birds are distinguished based on their bill shape, helping to categorize them into different species. </p>
-	<h4 class = "listtitle"> 3. They are unique in behaviors... </h4>
+	<h4 class = "subheading"> 3. They are unique in behaviors... </h4>
 	    <p class = "difference"> Ducks are relatively social creatures which live in flocks, keeping other ducks as company so that they don't feel lonely. <br><br> Geese, on the other hand, are more loud and aggressive - especially if other animals come too close or they are protecting their young.  <br><br> Swans are the same in a way, being protective of their nest and their young. Out of the 3, swans are the most graceful and majestic, being a symbol of love and grace. </p>
 </div>
 
 <div> 
-        <video src = "https://www.youtube.com/watch?v=F0qzOG-D3AM" controls width = "175" height = "175">
+        <video src = "https://www.youtube.com/watch?v=F0qzOG-D3AM" width = "175" height = "175" controls alt = "Here is a video of the Indian Runner Ducks!">
 </div>
                 
 </body> 
@@ -68,8 +67,8 @@
 	body {background-color: #E6EAC1; font-family: Papyrus}  
 	.title {border-style: double; font-family: Copperplate; font-size: 30 px}
         .difference {font-size: 12 px; font-family: Bradley Hand;
-	.listtitle{font-family: Chalkduster;}
+	.subheading{font-family: Marker Felt;}
 	.header {font-family: Bradly Hand; font-size: 20 px}
         .description {font-family: Copperplate; font-size: 25 px}
  </style>
-</html> 
+ </html> 
