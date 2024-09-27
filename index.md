@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html> 
   <head> 
-  <style>
-	h1{text-align: center;}
-	  
-  </style>
+  
   </head> 
 	
   <body>
@@ -21,30 +18,30 @@
   <h3> Different Duck Species </h3> 
 	<p> There are many different types of ducks, but I'm going give you a few examples of some interesting breeds. </p>
 	<ul> 
-	        <l> <b>Mallards: </b> </l> 
+	        <l> <b>1. Mallards: </b> </l> 
 		<p> the most common type of ducks - typically aggressive. Only the male mallards have the shiny green plumage on their head, while the females are typically brown and dull. </p>
-		<l> <b> American Pekin: </b></l>
+		<l> <b>2. American Pekin: </b></l>
 		<p> an American breed of domestic birds primarily raised for poultry. They are more docile and friendly than Mallards, and make great household pets!</p>
-		<l> <b>Indian Runner Ducks: </b></l>
+		<l> <b>3. Indian Runner Ducks: </b></l>
 		<p> noticable for their unbelievably long necks. They look like they were horizontally stretched out, and instead of waddling, they run! </p>
-		<l><b> Crested Ducks:</b> </l>
+		<l><b>4. Crested Ducks:</b> </l>
 		<p> another type of domestic duck, but is characterized by the large fluff of feathers on its head, making it look like Albert Einstein. This breed is known to be very cool. </p>
-		<l> <b>Pomeranian Duck: </b></l>
+		<l> <b>5. Pomeranian Duck: </b></l>
 		<p> another domesticated duck, but this breed is especially rare. They are traditionally black or dark blue, which a white breastplate - and their eyes are incredibly adorable. </p>
 	</ul>
   </div>
 
   <div>
-      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiwahIbWfZvjD2rTF7toFd10iEMtm5wl_YQ&s" alt = "Mallard" >
-      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZGWXcUU3ydOsWIw3qq_g9Blt7gD_UoMFmQ&s" alt = "American Pekin" >
-      <video src = "https://www.youtube.com/watch?v=F0qzOG-D3AM" width = "125" height = "100" controls alt = "Indian Runner Ducks">	  
-      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD-UI854bCcgCpVRlVY6U5J4-963cYnLE7A&s" alt = "Crested Ducks" >
-      <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL_Qm48pIlGBedAT1wkNVclBLpstfeXXfFA&s" alt = "Pomeranian Duck" >  
+      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiwahIbWfZvjD2rTF7toFd10iEMtm5wl_YQ&s" alt = "Mallard" width = "175" height= "175">
+      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZGWXcUU3ydOsWIw3qq_g9Blt7gD_UoMFmQ&s" alt = "American Pekin"  width = "175" height = "175">	
+      <img src = "https://www.waterfowl.org.uk/wp-content/uploads/2019/10/Runner-flock-thumb-1024x1024.jpeg" alt = "Indian Runner Ducks" width = "175" height = "175">  		 
+      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD-UI854bCcgCpVRlVY6U5J4-963cYnLE7A&s" alt = "Crested Ducks" width  = "175" height = "175">
+      <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL_Qm48pIlGBedAT1wkNVclBLpstfeXXfFA&s" alt = "Pomeranian Duck" wdith = "175" height = "175" >  
   </div>  
 
   <div> 
 	<h2> The <b>Brief </b>History of Ducks </h2>
-  		<p> Ducks can be traced back to the Neolithic period, domesticated in China and other places in East Asia. The oldest descendant is known to be the Mallard (<i> Anas platyrhynchos</i>). </p>
+  		<p> Ducks can be traced back to the Neolithic period, domesticated in China and other places in East Asia. The oldest descendant is known to be the Mallard (<i>Anas platyrhynchos</i>). </p>
         	<p> They were also seen in Ancient Egypt and Europe nearly 4000 years ago. In order to bring them to the United States, they were imported from China and Europe.</p>
         	<p> The duck population grew rapidly to what we see today - parks filled with these feathery, fun-filled buddies who occasionally poop on us and eat our breadcrumbs. </p>
         
@@ -59,6 +56,13 @@
 	<h4> 3. They are unique in behaviors... </h4>
 	  <p class = "difference"> Ducks are relatively social creatures which live in flocks, keeping other ducks as company so that they don't feel lonely. <br><br> Geese, on the other hand, are more loud and aggressive - especially if other animals come too close or they are protecting their young.  <br><br> Swans are the same in a way, being protective of their nest and their young. Out of the 3, swans are the most graceful and majestic, being a symbol of love and grace. </p>
   </div>
-
+  <div> 
+          <video src = "https://www.youtube.com/watch?v=F0qzOG-D3AM" controls width = "175" height = "175>
+  </div>
   </body> 
+
+<style>
+	h1{text-align: center;}
+	body {background-color: lightgreen;}  
+  </style>
 </html> 
