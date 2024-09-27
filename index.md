@@ -2,6 +2,7 @@
 <html> 
   <head> 
   <style>
+	h1{text-align: center;}
 	  
   </style>
   </head> 
@@ -36,6 +37,9 @@
   <div>
       <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeiwahIbWfZvjD2rTF7toFd10iEMtm5wl_YQ&s" alt = "Mallard" >
       <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0ZGWXcUU3ydOsWIw3qq_g9Blt7gD_UoMFmQ&s" alt = "American Pekin" >
+      <video src = "https://www.youtube.com/watch?v=F0qzOG-D3AM" width = "125" height = "100" controls alt = "Indian Runner Ducks">	  
+      <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD-UI854bCcgCpVRlVY6U5J4-963cYnLE7A&s" alt = "Crested Ducks" >
+      <img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROL_Qm48pIlGBedAT1wkNVclBLpstfeXXfFA&s" alt = "Pomeranian Duck" >  
   </div>  
 
   <div> 
@@ -43,7 +47,7 @@
   		<p> Ducks can be traced back to the Neolithic period, domesticated in China and other places in East Asia. The oldest descendant is known to be the Mallard (<i> Anas platyrhynchos</i>). </p>
         	<p> They were also seen in Ancient Egypt and Europe nearly 4000 years ago. In order to bring them to the United States, they were imported from China and Europe.</p>
         	<p> The duck population grew rapidly to what we see today - parks filled with these feathery, fun-filled buddies who occasionally poop on us and eat our breadcrumbs. </p>
-        <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWD-UI854bCcgCpVRlVY6U5J4-963cYnLE7A&s" alt = "George Washington Duck" >
+        
   </div>
   <div>
 	<h2> Ducks Vs. Geese Vs. Swans </h2>
