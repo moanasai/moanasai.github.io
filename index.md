@@ -16,7 +16,7 @@
 	<b> spreading their wings and soaring into the sunset</b> (or waddling around on the grass too!).  </p>
 <div> 
     <h2 class = "header"> <center>Different Duck Species</center> </h2> 
-	 <p> There are many different types of ducks, but I'm going give you a few examples of some interesting breeds. </p>
+	 <p class = "description"> <center> There are many different types of ducks, but I'm going give you a few examples of some interesting breeds.</center> </p>
 	 <ul> 
 	    <l class = "subheading"> <b>1. Mallards: </b> </l> 
 		<p class ="difference"> the most common type of ducks - typically aggressive. Only the male mallards have the shiny green plumage on their head, while the females are typically brown and dull. </p>
