@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html> 
-<head> 
-	<title> Ducks are Awesome!</title>
-</head>	
+    <head> 
+	    <title> Ducks are Awesome!</title>
+    </head>	
 <body>
 	
    <h1 class = "title"> A Summary of Ducks </h1>
@@ -59,24 +59,24 @@
 
 <div>
 	<h3 class = "header"> Here are some ducks to brighten up your day! Thank you for reading! </h3>
-	<img src = "https://i.pinimg.com/236x/d5/7c/eb/d57ceb9546385b8d5c224c34502ddcf6.jpg"  alt = "duck in a hat" width = "200" height = "200">
- 	<img src = "https://i.pinimg.com/originals/da/f2/91/daf29142d7693abff6ee7659ba872874.png" width = "200" height = "200">
-  	<img src = "https://i.chzbgr.com/full/9560359424/h93EE676F/hairdryer-for-the-first-time-as-a-kid-cute-baby-duck-duckling-with-fluffy-fuzzy-hair-sticking-out" width = "200" height = "230">
-    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26A-ZZP36tIXbLfb3BKiTUk38tmGgC6iRtw&s" width = "200" height = "200">
-    <img src ="https://media.tenor.com/cjk8Bj1CLnIAAAAM/duck-pog.gif" width = "200" height = "200">
+	<img src = "https://i.pinimg.com/236x/d5/7c/eb/d57ceb9546385b8d5c224c34502ddcf6.jpg"  alt = "duck in a hat" width = "175" height = "175">
+ 	<img src = "https://i.pinimg.com/originals/da/f2/91/daf29142d7693abff6ee7659ba872874.png" width = "175" height = "175">
+  	<img src = "https://i.chzbgr.com/full/9560359424/h93EE676F/hairdryer-for-the-first-time-as-a-kid-cute-baby-duck-duckling-with-fluffy-fuzzy-hair-sticking-out" width = "175" height = "210">
+    <img src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT26A-ZZP36tIXbLfb3BKiTUk38tmGgC6iRtw&s" width = "175" height = "175">
+    <img src ="https://media.tenor.com/cjk8Bj1CLnIAAAAM/duck-pog.gif" width = "175" height = "175">
 	
 </div>
 </body> 
 
 <style>
 	h1{text-align: center;}
-	body {background-color: #E6EAC1; font-family: Papyrus}  
+	body {background-color: #E6EAC1;}  
     p{font-size: 12 px; font-family: Bradley Hand;}
 	.title {border-style: double; font-family: Copperplate; font-size: 30 px}
 	.subheading{font-family: Marker Felt;}
 	.header {font-family: Bradly Hand; font-size: 20 px}
     .description {font-family: Copperplate; font-size: 40 px;}
- </style>	
+</style>	
 
 </html>
  
