@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-	<html> 
-	  <head> 
+<html> 
+	<head> 
 	  
-	  </head> 
+	</head> 
 		
-	  <body>
+	<body>
 	  <h1 class = "title"> A Summary of Ducks </h1>
 	      <h4> Today, I'm going to take you through a journey of <em>discovery</em>, of wonder, and the truly awe-inspiring world of the creatures we know as <b>ducks</b>. </h4>
 	    
